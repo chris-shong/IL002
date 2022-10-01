@@ -6,7 +6,7 @@ Keyword - lambda, map, filter, reduce
 """
 lambda 장점: 익명, 힙 영역 사용 즉시 소멸, pythonic?, 파이썬 가비지 컬렉션(Count=0), 일회성
 일반함수: 재사용성 위해 메모리 저장
-시퀀스형 전처리에 Reduce, Map, Fitler 주로 사용
+시퀀스형 전처리에 Reduce, Map, Filter 주로 사용
 
 """
 

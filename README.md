@@ -23,3 +23,4 @@
 * Descriptor(2): descriptor vs property
 
 ## Section 4. Python Advanced(4)
+* PyPI, GitHub package deploy

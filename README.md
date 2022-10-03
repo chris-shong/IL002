@@ -16,4 +16,10 @@
 * Method Overloading, `multipledispatch`
 
 ## Section 3. Python Advanced(3)
-* 
+* Meta Class(1): class of class
+* Meta Class(2): `type(name, base, dct)`
+* Meta Class(3): type inheritance, custom metaclass
+* Descriptor(1): set, get, del, property
+* Descriptor(2): descriptor vs property
+
+## Section 4. Python Advanced(4)
